@@ -1,0 +1,328 @@
+{
+  "patient_id": 4,
+  "total_entities": 53,
+  "date_range": {
+    "start": "2024-03-09",
+    "end": "2025-07-25"
+  },
+  "events": [
+    {
+      "date": "2024-03-09",
+      "event": "Rheumatoid arthritis",
+      "date_type": "absolute",
+      "original_date": "03-09-2024"
+    },
+    {
+      "date": "2024-04-17",
+      "event": "Hyperlipidemia",
+      "date_type": "absolute",
+      "original_date": "17 Apr 2024"
+    },
+    {
+      "date": "2024-05-07",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "05/07/24"
+    },
+    {
+      "date": "2024-05-18",
+      "event": "Medication administration",
+      "date_type": "absolute",
+      "original_date": "2024-05-18"
+    },
+    {
+      "date": "2024-06-21",
+      "event": "Diabetes mellitus",
+      "date_type": "absolute",
+      "original_date": "21st Jun 2024"
+    },
+    {
+      "date": "2024-07-15",
+      "event": "visual chang",
+      "date_type": "absolute",
+      "original_date": "15nd Jul 2024"
+    },
+    {
+      "date": "2024-07-19",
+      "event": "Cluster headache syndrome",
+      "date_type": "absolute",
+      "original_date": "19rd Jul 2024"
+    },
+    {
+      "date": "2024-08-15",
+      "event": "unspecified headache",
+      "date_type": "absolute",
+      "original_date": "15rd Aug 2024"
+    },
+    {
+      "date": "2024-08-27",
+      "event": "Coughing",
+      "date_type": "absolute",
+      "original_date": "27st Aug 2024"
+    },
+    {
+      "date": "2024-08-27",
+      "event": "Adjustment",
+      "date_type": "absolute",
+      "original_date": "27.08.24"
+    },
+    {
+      "date": "2024-08-27",
+      "event": "Analgesic",
+      "date_type": "absolute",
+      "original_date": "27.08.24"
+    },
+    {
+      "date": "2024-08-31",
+      "event": "Diabetes mellitus",
+      "date_type": "absolute",
+      "original_date": "31st Aug 2024"
+    },
+    {
+      "date": "2024-09-05",
+      "event": "macroadenoma",
+      "date_type": "absolute",
+      "original_date": "05rd Sep 2024"
+    },
+    {
+      "date": "2024-09-28",
+      "event": "Elevated WBC",
+      "date_type": "absolute",
+      "original_date": "28 Sep 2024"
+    },
+    {
+      "date": "2024-10-03",
+      "event": "Excessive thirst",
+      "date_type": "absolute",
+      "original_date": "03rd Oct 2024"
+    },
+    {
+      "date": "2024-10-28",
+      "event": "Rheumatoid arthritis",
+      "date_type": "absolute",
+      "original_date": "28nd Oct 2024"
+    },
+    {
+      "date": "2024-11-04",
+      "event": "resolving hypertension",
+      "date_type": "absolute",
+      "original_date": "04th Nov 2024"
+    },
+    {
+      "date": "2024-11-10",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "11.10.24"
+    },
+    {
+      "date": "2024-11-15",
+      "event": "progressive",
+      "date_type": "absolute",
+      "original_date": "15 Nov 2024"
+    },
+    {
+      "date": "2024-12-16",
+      "event": "ANA",
+      "date_type": "absolute",
+      "original_date": "16/12/24"
+    },
+    {
+      "date": "2024-12-18",
+      "event": "Schizophrenia",
+      "date_type": "absolute",
+      "original_date": "18nd Dec 2024"
+    },
+    {
+      "date": "2025-01-14",
+      "event": "Ulcerative colitis",
+      "date_type": "absolute",
+      "original_date": "14nd Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "17st Jan 2025"
+    },
+    {
+      "date": "2025-01-19",
+      "event": "Ultrasound",
+      "date_type": "absolute",
+      "original_date": "19rd Jan 2025"
+    },
+    {
+      "date": "2025-01-29",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "29 Jan"
+    },
+    {
+      "date": "2025-02-08",
+      "event": "Crohn's disease",
+      "date_type": "absolute",
+      "original_date": "08 Feb 2025"
+    },
+    {
+      "date": "2025-02-08",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "08 Feb 2025"
+    },
+    {
+      "date": "2025-02-08",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "08 Feb 2025"
+    },
+    {
+      "date": "2025-02-13",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "13rd Feb 2025"
+    },
+    {
+      "date": "2025-02-25",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "25-02-2025"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "CT head",
+      "date_type": "absolute",
+      "original_date": "26st Feb 2025"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "Fibromyalgia",
+      "date_type": "absolute",
+      "original_date": "26st Feb 2025"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "Weight gain",
+      "date_type": "absolute",
+      "original_date": "26st Feb 2025"
+    },
+    {
+      "date": "2025-03-04",
+      "event": "confirmed asthma",
+      "date_type": "absolute",
+      "original_date": "2025-03-04"
+    },
+    {
+      "date": "2025-03-12",
+      "event": "progressive",
+      "date_type": "absolute",
+      "original_date": "12nd Mar 2025"
+    },
+    {
+      "date": "2025-03-12",
+      "event": "Hydrocephalus",
+      "date_type": "absolute",
+      "original_date": "12nd Mar 2025"
+    },
+    {
+      "date": "2025-03-20",
+      "event": "CBC",
+      "date_type": "absolute",
+      "original_date": "20st Mar 2025"
+    },
+    {
+      "date": "2025-03-22",
+      "event": "leukemia",
+      "date_type": "absolute",
+      "original_date": "22 Mar 2025"
+    },
+    {
+      "date": "2025-03-30",
+      "event": "asthma",
+      "date_type": "absolute",
+      "original_date": "30th Mar 2025"
+    },
+    {
+      "date": "2025-03-30",
+      "event": "Labs",
+      "date_type": "absolute",
+      "original_date": "30th Mar 2025"
+    },
+    {
+      "date": "2025-04-09",
+      "event": "Cardiology CONSULT",
+      "date_type": "absolute",
+      "original_date": "09 Apr 2025"
+    },
+    {
+      "date": "2025-04-12",
+      "event": "Labs",
+      "date_type": "absolute",
+      "original_date": "12 Apr 2025"
+    },
+    {
+      "date": "2025-04-12",
+      "event": "positive ANA",
+      "date_type": "absolute",
+      "original_date": "12 Apr 2025"
+    },
+    {
+      "date": "2025-04-14",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "14/04/2025"
+    },
+    {
+      "date": "2025-05-01",
+      "event": "high cortisol",
+      "date_type": "absolute",
+      "original_date": "01st May 2025"
+    },
+    {
+      "date": "2025-05-03",
+      "event": "Elevated WBC",
+      "date_type": "absolute",
+      "original_date": "05-03-2025"
+    },
+    {
+      "date": "2025-05-08",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "08 May"
+    },
+    {
+      "date": "2025-05-16",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "16th May 2025"
+    },
+    {
+      "date": "2025-05-28",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "28st May 2025"
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Elevated CRP",
+      "date_type": "absolute",
+      "original_date": "07 Jun"
+    },
+    {
+      "date": "2025-06-27",
+      "event": "URGENT REVIEW",
+      "date_type": "absolute",
+      "original_date": "27rd Jun 2025"
+    },
+    {
+      "date": "2025-07-09",
+      "event": "Multiple myeloma",
+      "date_type": "absolute",
+      "original_date": "09st Jul 2025"
+    },
+    {
+      "date": "2025-07-25",
+      "event": "improved",
+      "date_type": "absolute",
+      "original_date": "25 Jul"
+    }
+  ]
+}

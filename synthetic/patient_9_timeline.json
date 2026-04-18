@@ -1,0 +1,352 @@
+{
+  "patient_id": 9,
+  "total_entities": 57,
+  "date_range": {
+    "start": "2024-03-06",
+    "end": "2025-12-01"
+  },
+  "events": [
+    {
+      "date": "2024-03-06",
+      "event": "Osteoarthritis",
+      "date_type": "absolute",
+      "original_date": "03.06.24"
+    },
+    {
+      "date": "2024-05-29",
+      "event": "Amitriptyline",
+      "date_type": "absolute",
+      "original_date": "29 May 2024"
+    },
+    {
+      "date": "2024-06-14",
+      "event": "None",
+      "date_type": "absolute",
+      "original_date": "14/06/24"
+    },
+    {
+      "date": "2024-06-30",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "30/06/2024"
+    },
+    {
+      "date": "2024-08-11",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "11st Aug 2024"
+    },
+    {
+      "date": "2024-09-12",
+      "event": "Fever",
+      "date_type": "absolute",
+      "original_date": "09.12.24"
+    },
+    {
+      "date": "2024-09-16",
+      "event": "None",
+      "date_type": "absolute",
+      "original_date": "16th Sep 2024"
+    },
+    {
+      "date": "2024-09-30",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "30-09-2024"
+    },
+    {
+      "date": "2024-09-30",
+      "event": "Respiratory assessment",
+      "date_type": "absolute",
+      "original_date": "30-09-2024"
+    },
+    {
+      "date": "2024-09-30",
+      "event": "COPD",
+      "date_type": "absolute",
+      "original_date": "30-09-2024"
+    },
+    {
+      "date": "2024-09-30",
+      "event": "imp: COPD",
+      "date_type": "absolute",
+      "original_date": "30-09-2024"
+    },
+    {
+      "date": "2024-10-13",
+      "event": "Hypertensive disorder",
+      "date_type": "absolute",
+      "original_date": "13rd Oct 2024"
+    },
+    {
+      "date": "2024-10-27",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "27-10-2024"
+    },
+    {
+      "date": "2024-10-30",
+      "event": "prolactinoma",
+      "date_type": "absolute",
+      "original_date": "30-10-2024"
+    },
+    {
+      "date": "2024-11-07",
+      "event": "Weight loss",
+      "date_type": "absolute",
+      "original_date": "2024-11-07"
+    },
+    {
+      "date": "2024-11-16",
+      "event": "Chest pain",
+      "date_type": "unknown",
+      "original_date": "16th Nov 2024"
+    },
+    {
+      "date": "2024-12-11",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "11 Dec 2024"
+    },
+    {
+      "date": "2024-12-23",
+      "event": "Backache",
+      "date_type": "absolute",
+      "original_date": "23 Dec 2024"
+    },
+    {
+      "date": "2025-01-01",
+      "event": "GERD",
+      "date_type": "absolute",
+      "original_date": "01st Jan 2025"
+    },
+    {
+      "date": "2025-01-03",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "01/03/2025"
+    },
+    {
+      "date": "2025-01-09",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "09st Jan 2025"
+    },
+    {
+      "date": "2025-01-10",
+      "event": "elevated prolactin",
+      "date_type": "absolute",
+      "original_date": "2025-01-10"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "17th Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "17th Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "17th Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Headache",
+      "date_type": "absolute",
+      "original_date": "17th Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "17rd Jan 2025"
+    },
+    {
+      "date": "2025-01-21",
+      "event": "Insomnia",
+      "date_type": "absolute",
+      "original_date": "21st Jan 2025"
+    },
+    {
+      "date": "2025-01-21",
+      "event": "Hypertensive disorder",
+      "date_type": "absolute",
+      "original_date": "21st Jan 2025"
+    },
+    {
+      "date": "2025-02-09",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "09 Feb 2025"
+    },
+    {
+      "date": "2025-02-11",
+      "event": "Weight loss",
+      "date_type": "absolute",
+      "original_date": "11st Feb 2025"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "26 Feb 2025"
+    },
+    {
+      "date": "2025-03-11",
+      "event": "new dx of cluster_headache",
+      "date_type": "absolute",
+      "original_date": "11st Mar 2025"
+    },
+    {
+      "date": "2025-03-24",
+      "event": "Coughing",
+      "date_type": "absolute",
+      "original_date": "24/03/2025"
+    },
+    {
+      "date": "2025-03-25",
+      "event": "Cluster headache syndrome",
+      "date_type": "absolute",
+      "original_date": "25nd Mar 2025"
+    },
+    {
+      "date": "2025-04-02",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "02 Apr 2025"
+    },
+    {
+      "date": "2025-04-11",
+      "event": "Insomnia",
+      "date_type": "absolute",
+      "original_date": "11 Apr"
+    },
+    {
+      "date": "2025-04-20",
+      "event": "COPD",
+      "date_type": "absolute",
+      "original_date": "20nd Apr 2025"
+    },
+    {
+      "date": "2025-04-23",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "23 Apr"
+    },
+    {
+      "date": "2025-04-28",
+      "event": "Abnormal LFTs",
+      "date_type": "absolute",
+      "original_date": "28th Apr 2025"
+    },
+    {
+      "date": "2025-05-16",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "16/05/25"
+    },
+    {
+      "date": "2025-06-26",
+      "event": "visual changes",
+      "date_type": "absolute",
+      "original_date": "26.06.25"
+    },
+    {
+      "date": "2025-07-04",
+      "event": "Elevated CRP",
+      "date_type": "absolute",
+      "original_date": "04rd Jul 2025"
+    },
+    {
+      "date": "2025-07-19",
+      "event": "Fatigue",
+      "date_type": "absolute",
+      "original_date": "2025-07-19"
+    },
+    {
+      "date": "2025-08-06",
+      "event": "Ulcerative colitis",
+      "date_type": "absolute",
+      "original_date": "06nd Aug 2025"
+    },
+    {
+      "date": "2025-08-06",
+      "event": "Ulcerative colitis",
+      "date_type": "absolute",
+      "original_date": "06nd Aug 2025"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "AST",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "ALT",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Liver function tests",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Chest X-ray",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Neurological exam",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Intracranial meningioma",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-08-24",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "24st Aug 2025"
+    },
+    {
+      "date": "2025-08-24",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "24st Aug 2025"
+    },
+    {
+      "date": "2025-08-24",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "24st Aug 2025"
+    },
+    {
+      "date": "2025-12-01",
+      "event": "Coughing",
+      "date_type": "absolute",
+      "original_date": "12/01/2025"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "patient_id": 1,
+  "total_entities": 75,
+  "date_range": {
+    "start": "2022-01-11",
+    "end": "2025-11-28"
+  },
+  "events": [
+    {
+      "date": "2022-01-11",
+      "event": "Acromegaly",
+      "date_type": "relative",
+      "original_date": "2 years ago"
+    },
+    {
+      "date": "2023-01-11",
+      "event": "Pituitary adenoma",
+      "date_type": "relative",
+      "original_date": "last year"
+    },
+    {
+      "date": "2024-01-04",
+      "event": "Headache",
+      "date_type": "relative",
+      "original_date": "last week"
+    },
+    {
+      "date": "2024-03-11",
+      "event": "COPD",
+      "date_type": "absolute",
+      "original_date": "03-11-2024"
+    },
+    {
+      "date": "2024-04-11",
+      "event": "Ibuprofen",
+      "date_type": "absolute",
+      "original_date": "04/11/2024"
+    },
+    {
+      "date": "2024-05-10",
+      "event": "Parkinson's disease",
+      "date_type": "absolute",
+      "original_date": "05/10/2024"
+    },
+    {
+      "date": "2024-06-11",
+      "event": "Excessive thirst",
+      "date_type": "absolute",
+      "original_date": "06.11.24"
+    },
+    {
+      "date": "2024-06-28",
+      "event": "worsening",
+      "date_type": "absolute",
+      "original_date": "28.06.24"
+    },
+    {
+      "date": "2024-06-30",
+      "event": "Ultrasound",
+      "date_type": "absolute",
+      "original_date": "30nd Jun 2024"
+    },
+    {
+      "date": "2024-07-05",
+      "event": "insomn",
+      "date_type": "absolute",
+      "original_date": "05st Jul 2024"
+    },
+    {
+      "date": "2024-07-05",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "05st Jul 2024"
+    },
+    {
+      "date": "2024-07-05",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "05st Jul 2024"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "Asthma",
+      "date_type": "absolute",
+      "original_date": "02nd Aug 2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Cushing's syndrome",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-08",
+      "event": "Malignant lymphoma",
+      "date_type": "absolute",
+      "original_date": "2024-08-08"
+    },
+    {
+      "date": "2024-08-14",
+      "event": "Elevated CRP",
+      "date_type": "absolute",
+      "original_date": "14/08/24"
+    },
+    {
+      "date": "2024-08-21",
+      "event": "high cortisol",
+      "date_type": "absolute",
+      "original_date": "21st Aug 2024"
+    },
+    {
+      "date": "2024-08-31",
+      "event": "Acute ulcerative gingivitis",
+      "date_type": "absolute",
+      "original_date": "31 Aug 2024"
+    },
+    {
+      "date": "2024-09-06",
+      "event": "Hospital admission",
+      "date_type": "absolute",
+      "original_date": "06rd Sep 2024"
+    },
+    {
+      "date": "2024-09-12",
+      "event": "Osteoarthritis",
+      "date_type": "absolute",
+      "original_date": "09/12/2024"
+    },
+    {
+      "date": "2024-09-12",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "12nd Sep 2024"
+    },
+    {
+      "date": "2024-09-12",
+      "event": "Disorder of brain",
+      "date_type": "absolute",
+      "original_date": "12nd Sep 2024"
+    },
+    {
+      "date": "2024-09-12",
+      "event": "Pituitary adenoma",
+      "date_type": "absolute",
+      "original_date": "12nd Sep 2024"
+    },
+    {
+      "date": "2024-09-27",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "27 Sep 2024"
+    },
+    {
+      "date": "2024-09-28",
+      "event": "TSH test",
+      "date_type": "absolute",
+      "original_date": "28/09/24"
+    },
+    {
+      "date": "2024-10-13",
+      "event": "Cushing's syndrome",
+      "date_type": "absolute",
+      "original_date": "13/10/24"
+    },
+    {
+      "date": "2024-10-23",
+      "event": "Headache",
+      "date_type": "absolute",
+      "original_date": "23rd Oct 2024"
+    },
+    {
+      "date": "2024-10-23",
+      "event": "meningitis",
+      "date_type": "absolute",
+      "original_date": "23rd Oct 2024"
+    },
+    {
+      "date": "2024-10-23",
+      "event": "Hepatosplenomegaly",
+      "date_type": "absolute",
+      "original_date": "23rd Oct 2024"
+    },
+    {
+      "date": "2024-11-08",
+      "event": "Hypertensive disorder",
+      "date_type": "absolute",
+      "original_date": "11-08-2024"
+    },
+    {
+      "date": "2024-11-26",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "26.11.24"
+    },
+    {
+      "date": "2024-12-17",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "17nd Dec 2024"
+    },
+    {
+      "date": "2024-12-17",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "17nd Dec 2024"
+    },
+    {
+      "date": "2024-12-17",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "17nd Dec 2024"
+    },
+    {
+      "date": "2024-12-17",
+      "event": "GERD",
+      "date_type": "absolute",
+      "original_date": "17.12.24"
+    },
+    {
+      "date": "2024-12-27",
+      "event": "relapse",
+      "date_type": "absolute",
+      "original_date": "27 Dec 2024"
+    },
+    {
+      "date": "2025-01-05",
+      "event": "Cough",
+      "date_type": "absolute",
+      "original_date": "05rd Jan 2025"
+    },
+    {
+      "date": "2025-01-05",
+      "event": "Hospital admission",
+      "date_type": "absolute",
+      "original_date": "05rd Jan 2025"
+    },
+    {
+      "date": "2025-01-05",
+      "event": "Pituitary adenoma",
+      "date_type": "absolute",
+      "original_date": "05rd Jan 2025"
+    },
+    {
+      "date": "2025-01-13",
+      "event": "worsening",
+      "date_type": "absolute",
+      "original_date": "13rd Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Fever",
+      "date_type": "absolute",
+      "original_date": "17st Jan 2025"
+    },
+    {
+      "date": "2025-01-18",
+      "event": "Hypoadrenalism",
+      "date_type": "absolute",
+      "original_date": "18 Jan 2025"
+    },
+    {
+      "date": "2025-01-18",
+      "event": "elevated prolactin",
+      "date_type": "absolute",
+      "original_date": "18 Jan 2025"
+    },
+    {
+      "date": "2025-01-26",
+      "event": "Headache",
+      "date_type": "absolute",
+      "original_date": "26 Jan"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "meningitis",
+      "date_type": "absolute",
+      "original_date": "27th Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Neoplasm of pituitary gland",
+      "date_type": "absolute",
+      "original_date": "27th Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Murmur",
+      "date_type": "absolute",
+      "original_date": "27th Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Hyperlipidemia",
+      "date_type": "absolute",
+      "original_date": "27th Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "27rd Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "27rd Jan 2025"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Hydrocephalus",
+      "date_type": "absolute",
+      "original_date": "27th Jan 2025"
+    },
+    {
+      "date": "2025-02-22",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "22 Feb 2025"
+    },
+    {
+      "date": "2025-02-26",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "26st Feb 2025"
+    },
+    {
+      "date": "2025-03-17",
+      "event": "Abnormal LFTs",
+      "date_type": "absolute",
+      "original_date": "17nd Mar 2025"
+    },
+    {
+      "date": "2025-03-17",
+      "event": "hyperthyroidism vs Cushing's_syndrome",
+      "date_type": "absolute",
+      "original_date": "17nd Mar 2025"
+    },
+    {
+      "date": "2025-03-18",
+      "event": "Asthma",
+      "date_type": "absolute",
+      "original_date": "18nd Mar 2025"
+    },
+    {
+      "date": "2025-04-07",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "07 Apr"
+    },
+    {
+      "date": "2025-04-15",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "15st Apr 2025"
+    },
+    {
+      "date": "2025-04-15",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "15st Apr 2025"
+    },
+    {
+      "date": "2025-06-03",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "03rd Jun 2025"
+    },
+    {
+      "date": "2025-06-04",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "04th Jun 2025"
+    },
+    {
+      "date": "2025-06-15",
+      "event": "Pituitary adenoma",
+      "date_type": "absolute",
+      "original_date": "15/06/2025"
+    },
+    {
+      "date": "2025-06-16",
+      "event": "Schizophrenia",
+      "date_type": "absolute",
+      "original_date": "16/06/2025"
+    },
+    {
+      "date": "2025-07-02",
+      "event": "leukemia",
+      "date_type": "absolute",
+      "original_date": "02 Jul"
+    },
+    {
+      "date": "2025-07-09",
+      "event": "Leukemia",
+      "date_type": "absolute",
+      "original_date": "07-09-2025"
+    },
+    {
+      "date": "2025-07-25",
+      "event": "Gastrointestinal hemorrhage",
+      "date_type": "absolute",
+      "original_date": "25.07.25"
+    },
+    {
+      "date": "2025-07-25",
+      "event": "Multiple sclerosis",
+      "date_type": "absolute",
+      "original_date": "25.07.25"
+    },
+    {
+      "date": "2025-08-02",
+      "event": "improved",
+      "date_type": "absolute",
+      "original_date": "08/02/2025"
+    },
+    {
+      "date": "2025-09-01",
+      "event": "Cabergoline",
+      "date_type": "absolute",
+      "original_date": "01 Sep"
+    },
+    {
+      "date": "2025-09-16",
+      "event": "Nausea and vomiting",
+      "date_type": "absolute",
+      "original_date": "16 Sep"
+    },
+    {
+      "date": "2025-09-16",
+      "event": "Rheumatoid arthritis",
+      "date_type": "absolute",
+      "original_date": "16 Sep"
+    },
+    {
+      "date": "2025-09-16",
+      "event": "Aspirin",
+      "date_type": "absolute",
+      "original_date": "16 Sep"
+    },
+    {
+      "date": "2025-10-03",
+      "event": "Epilepsy",
+      "date_type": "absolute",
+      "original_date": "3 mon"
+    },
+    {
+      "date": "2025-10-03",
+      "event": "Pituitary macroadenoma",
+      "date_type": "absolute",
+      "original_date": "3 mon"
+    },
+    {
+      "date": "2025-11-28",
+      "event": "Ibuprofen",
+      "date_type": "absolute",
+      "original_date": "28 Nov"
+    }
+  ]
+}

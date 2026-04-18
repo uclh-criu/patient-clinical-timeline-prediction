@@ -1,0 +1,388 @@
+{
+  "patient_id": 7,
+  "total_entities": 63,
+  "date_range": {
+    "start": "2024-04-12",
+    "end": "2025-12-11"
+  },
+  "events": [
+    {
+      "date": "2024-04-12",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "12nd Apr 2024"
+    },
+    {
+      "date": "2024-04-21",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "21/04/2024"
+    },
+    {
+      "date": "2024-05-10",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "05/10/2024"
+    },
+    {
+      "date": "2024-05-10",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "05/10/2024"
+    },
+    {
+      "date": "2024-05-10",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "05/10/2024"
+    },
+    {
+      "date": "2024-05-11",
+      "event": "Bronchitis",
+      "date_type": "absolute",
+      "original_date": "11 May 2024"
+    },
+    {
+      "date": "2024-05-22",
+      "event": "Liver function tests",
+      "date_type": "absolute",
+      "original_date": "22nd May 2024"
+    },
+    {
+      "date": "2024-06-08",
+      "event": "Parkinson's disease",
+      "date_type": "absolute",
+      "original_date": "08nd Jun 2024"
+    },
+    {
+      "date": "2024-06-11",
+      "event": "Urinalysis",
+      "date_type": "absolute",
+      "original_date": "11st Jun 2024"
+    },
+    {
+      "date": "2024-06-22",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "22 Jun 2024"
+    },
+    {
+      "date": "2024-06-28",
+      "event": "Eruption",
+      "date_type": "absolute",
+      "original_date": "28th Jun 2024"
+    },
+    {
+      "date": "2024-07-03",
+      "event": "Distress",
+      "date_type": "absolute",
+      "original_date": "03rd Jul 2024"
+    },
+    {
+      "date": "2024-07-03",
+      "event": "Weight gain",
+      "date_type": "absolute",
+      "original_date": "03rd Jul 2024"
+    },
+    {
+      "date": "2024-07-03",
+      "event": "Asthma",
+      "date_type": "absolute",
+      "original_date": "03rd Jul 2024"
+    },
+    {
+      "date": "2024-07-03",
+      "event": "Liver function tests",
+      "date_type": "absolute",
+      "original_date": "03rd Jul 2024"
+    },
+    {
+      "date": "2024-07-19",
+      "event": "Labs",
+      "date_type": "absolute",
+      "original_date": "19 Jul 2024"
+    },
+    {
+      "date": "2024-07-24",
+      "event": "Labs",
+      "date_type": "absolute",
+      "original_date": "24nd Jul 2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "back pain",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "cerebral hemorrhage",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Congenital malformation",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "adjusted medication dosages",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Disorder of pituitary gland",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Imaging studies",
+      "date_type": "absolute",
+      "original_date": "08-06-2024"
+    },
+    {
+      "date": "2024-08-10",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "08/10/24"
+    },
+    {
+      "date": "2024-08-10",
+      "event": "neoplasm of pituitary gland",
+      "date_type": "absolute",
+      "original_date": "08/10/24"
+    },
+    {
+      "date": "2024-08-26",
+      "event": "Schizophrenia",
+      "date_type": "absolute",
+      "original_date": "26nd Aug 2024"
+    },
+    {
+      "date": "2024-08-29",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "29th Aug 2024"
+    },
+    {
+      "date": "2024-09-24",
+      "event": "Hyperglycemia",
+      "date_type": "absolute",
+      "original_date": "24st Sep 2024"
+    },
+    {
+      "date": "2024-10-19",
+      "event": "Eruption",
+      "date_type": "absolute",
+      "original_date": "19-10-2024"
+    },
+    {
+      "date": "2024-11-07",
+      "event": "Migraine",
+      "date_type": "absolute",
+      "original_date": "07th Nov 2024"
+    },
+    {
+      "date": "2024-11-12",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "11/12/2024"
+    },
+    {
+      "date": "2024-11-12",
+      "event": "Congenital malformation",
+      "date_type": "absolute",
+      "original_date": "11/12/2024"
+    },
+    {
+      "date": "2024-11-12",
+      "event": "CT head",
+      "date_type": "absolute",
+      "original_date": "11/12/2024"
+    },
+    {
+      "date": "2024-11-14",
+      "event": "TSH test",
+      "date_type": "absolute",
+      "original_date": "14st Nov 2024"
+    },
+    {
+      "date": "2024-11-20",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "20/11/24"
+    },
+    {
+      "date": "2024-11-29",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "29/11/2024"
+    },
+    {
+      "date": "2024-12-03",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "03rd Dec 2024"
+    },
+    {
+      "date": "2024-12-03",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "03rd Dec 2024"
+    },
+    {
+      "date": "2024-12-04",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "04 Dec 2024"
+    },
+    {
+      "date": "2024-12-14",
+      "event": "CBC",
+      "date_type": "absolute",
+      "original_date": "14.12.24"
+    },
+    {
+      "date": "2025-01-06",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "06st Jan 2025"
+    },
+    {
+      "date": "2025-01-06",
+      "event": "Insomnia",
+      "date_type": "absolute",
+      "original_date": "06st Jan 2025"
+    },
+    {
+      "date": "2025-01-12",
+      "event": "lymphoma",
+      "date_type": "absolute",
+      "original_date": "12nd Jan 2025"
+    },
+    {
+      "date": "2025-01-12",
+      "event": "Excessive thirst",
+      "date_type": "absolute",
+      "original_date": "12nd Jan 2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "COPD",
+      "date_type": "absolute",
+      "original_date": "17-01-2025"
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Hyperthyroidism",
+      "date_type": "absolute",
+      "original_date": "17-01-2025"
+    },
+    {
+      "date": "2025-01-18",
+      "event": "stroke",
+      "date_type": "absolute",
+      "original_date": "18.01.25"
+    },
+    {
+      "date": "2025-01-20",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "20/01/25"
+    },
+    {
+      "date": "2025-01-24",
+      "event": "Prednisone",
+      "date_type": "absolute",
+      "original_date": "24-01-2025"
+    },
+    {
+      "date": "2025-01-25",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "25.01.25"
+    },
+    {
+      "date": "2025-01-27",
+      "event": "Eruption",
+      "date_type": "absolute",
+      "original_date": "27/01/25"
+    },
+    {
+      "date": "2025-02-18",
+      "event": "Hyperglycemia",
+      "date_type": "absolute",
+      "original_date": "18th Feb 2025"
+    },
+    {
+      "date": "2025-02-20",
+      "event": "Phone note",
+      "date_type": "absolute",
+      "original_date": "20/02/25"
+    },
+    {
+      "date": "2025-02-23",
+      "event": "Adjustment",
+      "date_type": "absolute",
+      "original_date": "23 Feb"
+    },
+    {
+      "date": "2025-02-23",
+      "event": "resolvin Medication",
+      "date_type": "absolute",
+      "original_date": "23 Feb"
+    },
+    {
+      "date": "2025-04-17",
+      "event": "URGENT REVIEW",
+      "date_type": "absolute",
+      "original_date": "17 Apr"
+    },
+    {
+      "date": "2025-05-24",
+      "event": "Parkinson's disease",
+      "date_type": "absolute",
+      "original_date": "24 May"
+    },
+    {
+      "date": "2025-10-30",
+      "event": "Joint pain",
+      "date_type": "absolute",
+      "original_date": "30 Oct"
+    },
+    {
+      "date": "2025-10-30",
+      "event": "hyperlipidemia",
+      "date_type": "absolute",
+      "original_date": "30 Oct"
+    },
+    {
+      "date": "2025-10-30",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "30 Oct"
+    },
+    {
+      "date": "2025-11-01",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "11/01/25"
+    },
+    {
+      "date": "2025-12-11",
+      "event": "frequent urin Labs",
+      "date_type": "absolute",
+      "original_date": "11 Dec"
+    }
+  ]
+}

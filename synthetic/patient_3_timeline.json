@@ -1,0 +1,346 @@
+{
+  "patient_id": 3,
+  "total_entities": 56,
+  "date_range": {
+    "start": "2024-03-07",
+    "end": "2025-12-18"
+  },
+  "events": [
+    {
+      "date": "2024-03-07",
+      "event": "Prolactinoma",
+      "date_type": "absolute",
+      "original_date": "03-07-2024"
+    },
+    {
+      "date": "2024-03-07",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "03-07-2024"
+    },
+    {
+      "date": "2024-06-22",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "22nd Jun 2024"
+    },
+    {
+      "date": "2024-07-15",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "15st Jul 2024"
+    },
+    {
+      "date": "2024-07-17",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "17.07.24"
+    },
+    {
+      "date": "2024-07-17",
+      "event": "Hypothyroidism",
+      "date_type": "absolute",
+      "original_date": "17.07.24"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "CT head",
+      "date_type": "absolute",
+      "original_date": "02 Aug 2024"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "Lisinopril",
+      "date_type": "absolute",
+      "original_date": "02 Aug 2024"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "02 Aug 2024"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "Medication administration",
+      "date_type": "absolute",
+      "original_date": "02 Aug 2024"
+    },
+    {
+      "date": "2024-08-02",
+      "event": "Atorvastatin",
+      "date_type": "absolute",
+      "original_date": "02 Aug 2024"
+    },
+    {
+      "date": "2024-08-03",
+      "event": "Anxiety",
+      "date_type": "absolute",
+      "original_date": "03rd .Aug 2024"
+    },
+    {
+      "date": "2024-08-03",
+      "event": "resolved",
+      "date_type": "absolute",
+      "original_date": "03rd .Aug 2024"
+    },
+    {
+      "date": "2024-09-15",
+      "event": "Congenital malformation",
+      "date_type": "absolute",
+      "original_date": "15rd Sep 2024"
+    },
+    {
+      "date": "2024-09-15",
+      "event": "Coughing",
+      "date_type": "absolute",
+      "original_date": "15rd Sep 2024"
+    },
+    {
+      "date": "2024-09-15",
+      "event": "suspect Crohn's_disease",
+      "date_type": "absolute",
+      "original_date": "15rd Sep 2024"
+    },
+    {
+      "date": "2024-09-20",
+      "event": "CT head",
+      "date_type": "absolute",
+      "original_date": "20/09/2024"
+    },
+    {
+      "date": "2024-09-20",
+      "event": "Hyperlipidemia",
+      "date_type": "absolute",
+      "original_date": "20/09/2024"
+    },
+    {
+      "date": "2024-10-10",
+      "event": "resolved",
+      "date_type": "absolute",
+      "original_date": "2024-10-10"
+    },
+    {
+      "date": "2024-11-04",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "04 Nov 2024"
+    },
+    {
+      "date": "2024-11-07",
+      "event": "Dyspnea",
+      "date_type": "absolute",
+      "original_date": "07th Nov 2024"
+    },
+    {
+      "date": "2024-12-07",
+      "event": "unchanged",
+      "date_type": "absolute",
+      "original_date": "07th Dec 2024"
+    },
+    {
+      "date": "2024-12-08",
+      "event": "slightly improved",
+      "date_type": "absolute",
+      "original_date": "12/08/2024"
+    },
+    {
+      "date": "2024-12-17",
+      "event": "Scheduling",
+      "date_type": "absolute",
+      "original_date": "17/12/24"
+    },
+    {
+      "date": "2024-12-23",
+      "event": "Lesion",
+      "date_type": "absolute",
+      "original_date": "2024-12-23"
+    },
+    {
+      "date": "2025-01-02",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "02 Jan 2025"
+    },
+    {
+      "date": "2025-01-12",
+      "event": "Diabetes mellitus",
+      "date_type": "absolute",
+      "original_date": "12nd Jan 2025"
+    },
+    {
+      "date": "2025-01-29",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "29/01/25"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "suspect lymphoma[diagn.osis] f/u",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "no acute intracranial abnormalities",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "CT head",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "proper medication administration techniques",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "frequent urination improved",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-01",
+      "event": "f/u in 1 month",
+      "date_type": "absolute",
+      "original_date": "01st Feb 2025"
+    },
+    {
+      "date": "2025-02-10",
+      "event": "labs",
+      "date_type": "absolute",
+      "original_date": "10th Feb 2025"
+    },
+    {
+      "date": "2025-02-13",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "13.02.25"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "creatinine",
+      "date_type": "absolute",
+      "original_date": "17th Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "potassium",
+      "date_type": "absolute",
+      "original_date": "17th Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "sodium",
+      "date_type": "absolute",
+      "original_date": "17th Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "Basic metabolic panel",
+      "date_type": "absolute",
+      "original_date": "17th Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "Anxiety",
+      "date_type": "absolute",
+      "original_date": "17th Feb 2025"
+    },
+    {
+      "date": "2025-04-08",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "08 Apr"
+    },
+    {
+      "date": "2025-04-08",
+      "event": "Prolactinoma",
+      "date_type": "absolute",
+      "original_date": "08 Apr"
+    },
+    {
+      "date": "2025-05-13",
+      "event": "Phone note",
+      "date_type": "absolute",
+      "original_date": "13 May 2025"
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "25 Jun"
+    },
+    {
+      "date": "2025-06-29",
+      "event": "Ulcerative colitis",
+      "date_type": "absolute",
+      "original_date": "29nd Jun 2025"
+    },
+    {
+      "date": "2025-07-03",
+      "event": "Distress",
+      "date_type": "absolute",
+      "original_date": "03 Jul"
+    },
+    {
+      "date": "2025-07-03",
+      "event": "Normal vital signs",
+      "date_type": "absolute",
+      "original_date": "03 Jul"
+    },
+    {
+      "date": "2025-07-04",
+      "event": "Tension-type headache",
+      "date_type": "absolute",
+      "original_date": "07.04.25"
+    },
+    {
+      "date": "2025-08-01",
+      "event": "labs",
+      "date_type": "absolute",
+      "original_date": "08/01/25"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "Patient tolerated the procedure well",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "Disorder of brain",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "Congenital malformation",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    },
+    {
+      "date": "2025-12-18",
+      "event": "Elevated WBC",
+      "date_type": "absolute",
+      "original_date": "18 Dec"
+    }
+  ]
+}

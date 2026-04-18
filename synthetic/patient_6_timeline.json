@@ -1,0 +1,418 @@
+{
+  "patient_id": 6,
+  "total_entities": 68,
+  "date_range": {
+    "start": "2024-03-06",
+    "end": "2025-12-23"
+  },
+  "events": [
+    {
+      "date": "2024-03-06",
+      "event": "ECG",
+      "date_type": "absolute",
+      "original_date": "03/06/24"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Chest X-ray",
+      "date_type": "absolute",
+      "original_date": "01 May 2024"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Dizziness",
+      "date_type": "absolute",
+      "original_date": "01 May 2024"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Infiltration",
+      "date_type": "absolute",
+      "original_date": "01 May 2024"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Effusion",
+      "date_type": "absolute",
+      "original_date": "01 May 2024"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Osteoarthritis",
+      "date_type": "absolute",
+      "original_date": "01 May 2024"
+    },
+    {
+      "date": "2024-05-07",
+      "event": "CBC",
+      "date_type": "absolute",
+      "original_date": "07 May 2024"
+    },
+    {
+      "date": "2024-06-15",
+      "event": "Gout",
+      "date_type": "absolute",
+      "original_date": "15st Jun 2024"
+    },
+    {
+      "date": "2024-06-25",
+      "event": "Chest pain",
+      "date_type": "absolute",
+      "original_date": "2024-06-25"
+    },
+    {
+      "date": "2024-07-07",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "07st Jul 2024"
+    },
+    {
+      "date": "2024-07-10",
+      "event": "Cardiology CONSULT",
+      "date_type": "absolute",
+      "original_date": "10 Jul 2024"
+    },
+    {
+      "date": "2024-07-10",
+      "event": "Gastrointestinal hemorrhage",
+      "date_type": "absolute",
+      "original_date": "10 Jul 2024"
+    },
+    {
+      "date": "2024-07-31",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "31st Jul 2024"
+    },
+    {
+      "date": "2024-08-06",
+      "event": "Dizziness",
+      "date_type": "absolute",
+      "original_date": "2024-08-06"
+    },
+    {
+      "date": "2024-08-07",
+      "event": "Sumatriptan",
+      "date_type": "absolute",
+      "original_date": "07 Aug 2024"
+    },
+    {
+      "date": "2024-08-09",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "08-09-2024"
+    },
+    {
+      "date": "2024-09-09",
+      "event": "Parkinson's_disease",
+      "date_type": "absolute",
+      "original_date": "09/09/2024"
+    },
+    {
+      "date": "2024-09-26",
+      "event": "Abnormal LFTs",
+      "date_type": "absolute",
+      "original_date": "26 Sep 2024"
+    },
+    {
+      "date": "2024-09-29",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "29/09/24"
+    },
+    {
+      "date": "2024-10-08",
+      "event": "Rheumatology CONSULT",
+      "date_type": "absolute",
+      "original_date": "10/08/24"
+    },
+    {
+      "date": "2024-10-09",
+      "event": "Weight gain",
+      "date_type": "absolute",
+      "original_date": "09rd Oct 2024"
+    },
+    {
+      "date": "2024-10-16",
+      "event": "Schizophrenia",
+      "date_type": "absolute",
+      "original_date": "16nd Oct 2024"
+    },
+    {
+      "date": "2024-10-17",
+      "event": "Dizziness",
+      "date_type": "absolute",
+      "original_date": "17.10.24"
+    },
+    {
+      "date": "2024-11-17",
+      "event": "Hypertensive disorder",
+      "date_type": "absolute",
+      "original_date": "17 Nov 2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "Urinalysis",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "Analgesic",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "Cerebrovascular accident",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "Atrophy",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-11-25",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "25/11/2024"
+    },
+    {
+      "date": "2024-12-07",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "12.07.24"
+    },
+    {
+      "date": "2024-12-09",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "09st Dec 2024"
+    },
+    {
+      "date": "2024-12-10",
+      "event": "depression",
+      "date_type": "absolute",
+      "original_date": "10th Dec.2024"
+    },
+    {
+      "date": "2024-12-12",
+      "event": "Mass",
+      "date_type": "absolute",
+      "original_date": "12nd Dec 2024"
+    },
+    {
+      "date": "2024-12-16",
+      "event": "MRI",
+      "date_type": "absolute",
+      "original_date": "16/12/24"
+    },
+    {
+      "date": "2024-12-28",
+      "event": "GI visit",
+      "date_type": "absolute",
+      "original_date": "28rd Dec 2024"
+    },
+    {
+      "date": "2025-01-01",
+      "event": "Urinary frequency",
+      "date_type": "absolute",
+      "original_date": "01st Jan 2025"
+    },
+    {
+      "date": "2025-01-12",
+      "event": "Metformin",
+      "date_type": "absolute",
+      "original_date": "12 Jan 2025"
+    },
+    {
+      "date": "2025-01-16",
+      "event": "Backache",
+      "date_type": "absolute",
+      "original_date": "16 Jan"
+    },
+    {
+      "date": "2025-01-19",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "19/01/2025"
+    },
+    {
+      "date": "2025-02-07",
+      "event": "low vitamin D",
+      "date_type": "absolute",
+      "original_date": "2025-02-07"
+    },
+    {
+      "date": "2025-02-10",
+      "event": "Excessive thirst",
+      "date_type": "absolute",
+      "original_date": "10th Feb 2025"
+    },
+    {
+      "date": "2025-02-14",
+      "event": "PET scan",
+      "date_type": "absolute",
+      "original_date": "14rd Feb 2025"
+    },
+    {
+      "date": "2025-02-15",
+      "event": "ECG",
+      "date_type": "absolute",
+      "original_date": "15 Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "Mood swings",
+      "date_type": "absolute",
+      "original_date": "17nd Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "Recurrent disease",
+      "date_type": "absolute",
+      "original_date": "17nd Feb 2025"
+    },
+    {
+      "date": "2025-02-17",
+      "event": "Schizophrenia",
+      "date_type": "absolute",
+      "original_date": "17nd Feb 2025"
+    },
+    {
+      "date": "2025-02-24",
+      "event": "Anemia",
+      "date_type": "absolute",
+      "original_date": "24.02.25"
+    },
+    {
+      "date": "2025-03-26",
+      "event": "Insomnia",
+      "date_type": "absolute",
+      "original_date": "26/03/2025"
+    },
+    {
+      "date": "2025-03-26",
+      "event": "Cluster headache syndrome",
+      "date_type": "absolute",
+      "original_date": "26/03/2025"
+    },
+    {
+      "date": "2025-03-26",
+      "event": "improved",
+      "date_type": "absolute",
+      "original_date": "26th Mar 2025"
+    },
+    {
+      "date": "2025-03-31",
+      "event": "Nausea",
+      "date_type": "absolute",
+      "original_date": "31st Mar 2025"
+    },
+    {
+      "date": "2025-04-01",
+      "event": "low vitamin D",
+      "date_type": "absolute",
+      "original_date": "04-01-2025"
+    },
+    {
+      "date": "2025-04-01",
+      "event": "Nausea and vomiting",
+      "date_type": "absolute",
+      "original_date": "04/01/2025"
+    },
+    {
+      "date": "2025-04-01",
+      "event": "Anxiety",
+      "date_type": "absolute",
+      "original_date": "04-01-2025"
+    },
+    {
+      "date": "2025-04-03",
+      "event": "Bipolar disorder",
+      "date_type": "absolute",
+      "original_date": "03 Apr"
+    },
+    {
+      "date": "2025-05-03",
+      "event": "Bronchitis",
+      "date_type": "absolute",
+      "original_date": "05/03/25"
+    },
+    {
+      "date": "2025-05-09",
+      "event": "X-ray",
+      "date_type": "absolute",
+      "original_date": "09 May"
+    },
+    {
+      "date": "2025-05-30",
+      "event": "Hypothyroidism",
+      "date_type": "absolute",
+      "original_date": "30/05/2025"
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Epilepsy",
+      "date_type": "absolute",
+      "original_date": "06/06/2025"
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Backache",
+      "date_type": "absolute",
+      "original_date": "06/06/2025"
+    },
+    {
+      "date": "2025-06-16",
+      "event": "Adjustment",
+      "date_type": "absolute",
+      "original_date": "16 Jun"
+    },
+    {
+      "date": "2025-07-13",
+      "event": "Aspirin",
+      "date_type": "absolute",
+      "original_date": "13/07/2025"
+    },
+    {
+      "date": "2025-07-23",
+      "event": "GERD",
+      "date_type": "absolute",
+      "original_date": "23rd Jul 2025"
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Pneumonia",
+      "date_type": "absolute",
+      "original_date": "18 Aug"
+    },
+    {
+      "date": "2025-10-05",
+      "event": "Epilepsy",
+      "date_type": "absolute",
+      "original_date": "10/05/25"
+    },
+    {
+      "date": "2025-10-05",
+      "event": "Fatigue",
+      "date_type": "absolute",
+      "original_date": "10/05/25"
+    },
+    {
+      "date": "2025-12-23",
+      "event": "Migraine",
+      "date_type": "absolute",
+      "original_date": "23 Dec"
+    }
+  ]
+}
